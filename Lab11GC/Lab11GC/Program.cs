@@ -21,7 +21,13 @@ namespace Lab11GC
             new Movie("Death Comes To Us All, Oroku Saki","drama"),
             new Movie("The Bunk Cauldrun","animation"),
             new Movie("P's and Q's","scifi"),
-            new Movie("Night of the Lepus 2: Electric Boogaloo","horror")
+            new Movie("Night of the Lepus 2: Electric Boogaloo","horror"),
+            new Movie("Scrimmy Bingus and Crungy Spingus","animation"),
+            new Movie("The Last Slice and There's Three People Trying to Avoid Looking at It","horror"),
+            new Movie("Gone with the Breeze","drama"),
+            new Movie("The Brave Little Keurig","animation"),
+            new Movie("Honey, I Uploaded our Kids' Brains to my iCloud","scifi"),
+            new Movie("My Chair Just Made a Farting Noise and Now I'm Deseperately Trying to Recreate It","horror")
         };
 
         static void Main()
